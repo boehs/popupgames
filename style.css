@@ -1,11 +1,27 @@
+body {
+	padding: 0;
+	margin: 0;
+}
 .tips {
-  font-family: 'Roboto', sans-serif;
-  font-size: 75px;
-  text-align: center;
-line-height: normal;
-vertical-align: middle;
+	font-family: "Roboto", sans-serif;
+	font-size: 75px;
+	text-align: center;
+	line-height: normal;
+	vertical-align: middle;
+}
+.footer {
+	font-family: "Roboto", sans-serif;
+	font-size: 25px;
+	text-align: center;
+	line-height: normal;
+	vertical-align: middle;
 }
 .tipscontainer {
-  padding: 10vw;
+	padding: 10vw;
+}
 
+.bgimg {
+	position: absolute;
+	width: 100%;
+	height: 100%;
 }
