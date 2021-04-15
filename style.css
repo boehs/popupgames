@@ -1,0 +1,11 @@
+.tips {
+  font-family: 'Roboto', sans-serif;
+  font-size: 75px;
+  text-align: center;
+line-height: normal;
+vertical-align: middle;
+}
+.tipscontainer {
+  padding: 10vw;
+
+}
